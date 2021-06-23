@@ -1,0 +1,230 @@
+{ 
+  
+    "elements" :[ 
+    {
+      "question" : "The atomic number of an atom is the number of ______ in the atom's nucleus.",
+      "answers" : {
+        "a": "Electrons",
+        "b": "Neutrons",
+        "c": "Protons"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "The rows in Periodic Table are called __________.",
+      "answers": {
+        "a": "Periods",
+        "b": "Classes",
+        "c": "Chemicals",
+        "d": "Blocks"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question" : "Which one of the following elements is very rare?",
+      "answers" : {
+        "a" : "Thorium",
+        "b" : "Uranium",
+        "c" : "Francium",
+        "d" : "Nihonium"
+      },
+      "correctAnswer" : "c"
+    },
+    {
+      "question" : "How many periods and groups are present in the periodic table?",
+      "answers" : {
+        "a" : "7 periods and 18 groups",
+        "b" : "8 periods and 7 groups",
+        "c" : "7 periods and 7 groups",
+        "d" : "8 periods and 8 groups"
+      },
+      "correctAnswer" : "a"
+    },
+    {
+      "question": "Which of the following forms the basis of the modern periodic table?",
+      "answers" : {
+        "a" : "Atomic Number",
+        "b" : "Atomic Mass",
+        "c" : "Number of Nucleons",
+        "d" : "All of these"
+      },
+      "correctAnswer" : "a"
+    },
+    {
+      "question" : "What happens to the electropositive character of elements on moving from left to right in a periodic table?",
+      "answers" : {
+        "a" : "Increases",
+        "b" : "Decreases",
+        "c" : "First increases then decreases",
+        "d" : "First decreases then increases"
+      },
+      "correctAnswer" : "b"
+    },
+    {
+      "question" : "What is the other name for group 18th elements?",
+      "answers" : {
+        "a" : "Noble Gases",
+        "b" : "Alkali Metals",
+        "c" : "Alkaline earth metals",
+        "d" : "Halogens"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question" : "Which of the following elements has 2 shells and both are completely filled?",
+      "answers": {
+        "a" : "Helium",
+        "b" : "Neon",
+        "c" : "Calcium",
+        "d" : "Boron"
+      },
+      "correctAnswer" : "b"
+    },
+    {
+      "question" : "Which of the following statements are TRUE?",
+      "answers" : {
+        "a" : "The first 94 elements in Periodic Table occur naturally",
+        "b" : "Elements 95 to 118 have only been synthesized in laboratories or nuclear reactors",
+        "c" : "Alkali Metals occupy the left-most column of the Periodic Table",
+        "d" : "All are True"
+      },
+      "correctAnswer" : "d"
+    },
+    {
+      "question" : "Who proposed Law of Triads?",
+      "answers" : {
+        "a" : "Dobereiner",
+        "b" : "John Newlands",
+        "c" : "Lothan Grenger",
+        "d" : "Michal Philip Gardener"
+      },
+      "correctAnswer" : "a"
+    },
+
+    {
+      "question" : "Which of the following represents the general electronic configuration of an element belonging to the p-block of the periodic table?",
+      "answers" : {
+        "a" : "(n-2)f0(n-1)d0ns2 np0 -6",
+        "b" : "(n-2)f0(n-1)d1 – 10 ns2 np1- 6",
+        "c" : "(n-2)f0(n-1)d0 ns2np1-6",
+        "d" : "(n-2)f1- 14(n-1)d1- 10ns2np1- 6"
+
+        
+      },
+      "correctAnswer" : "c"
+    },
+    {
+      "question" :" What happens to the size of atoms of elements of p-block as we move from left to right in the same period?",
+      "answers" : {
+        "a" : "Size increases",
+        "b" : "Size decreases",
+        "c" : "Size does not change",
+        "d" : "Size increases then decreases"
+
+        
+      },
+      "correctAnswer" : "b"
+    },
+    {
+      "question" :" What is the maximum covalency of the nitrogen atom?",
+      "answers" : {
+        "a" : "One",
+        "b" : "Two",
+        "c" : "Three",
+        "d" : "Four"
+
+        
+      },
+      "correctAnswer" : "d"
+    },
+    {
+      "question" :"Why does nitrogen show poor tendency towards catenation?",
+      "answers" : {
+        "a" : "N atom can form multiple pπ – pπ bonds",
+        "b" : "Octet of N2 is complete unlike carbon",
+        "c" : "The N ≡ N is unreactive at room temperature",
+        "d" : "The N – N single bond is weaker and unstable"
+
+        
+      },
+      "correctAnswer" : "d"
+    },
+    {
+      "question" :"What is the primary product of  Haber-Bosch process?",
+      "answers" : {
+        "a" : "Ammonia",
+        "b" : "Nitric acid",
+        "c" : "Nitrous acid",
+        "d" : "Pyridine"
+
+        
+      },
+      "correctAnswer" : "a"
+    },
+    {
+      "question" :"Which gas is released when copper chips are subjected to concentrated nitric acid?",
+      "answers" : {
+        "a" : "Nitrogen (I) oxide",
+        "b" : "Nitrogen (II) oxide",
+        "c" : "Nitrogen (III) oxide",
+        "d" : "Nitrogen (IV) oxide"
+
+        
+      },
+      "correctAnswer" : "d"
+    },
+    {
+      "question" :"What shape is the HNO3 molecule in its gaseous state?",
+      "answers" : {
+        "a" : "Bent",
+        "b" : "Linear",
+        "c" : "Planar",
+        "d" : "See Saw"
+
+        
+      },
+      "correctAnswer" : "c"
+    },
+    {
+      "question" :"Which of the following ions is the brown ring test useful for determining?",
+      "answers" : {
+        "a" : "NO2–",
+        "b" : "NO2+",
+        "c" : "NO2",
+        "d" : " NO3–"
+
+        
+      },
+      "correctAnswer" : "d"
+    },
+    {
+      "question" :"What catalyst is used for oxidation of ammonia to produce nitric acid?",
+      "answers" : {
+        "a" : "Palladium hydride",
+        "b" : "Sodium amalgam",
+        "c" : "Platinum-Rhodium gauze",
+        "d" : "Vanadium (V) oxide"
+
+        
+      },
+      "correctAnswer" : "c"
+    },
+    {
+      "question" :"What is the oxidation state of nitrogen in di-nitrogen trioxide?",
+      "answers" : {
+        "a" : "+1",
+        "b" : "+2",
+        "c" : "+3",
+        "d" : "+4"
+
+        
+      },
+      "correctAnswer" : "c"
+    }
+
+
+
+
+
+    ]
+}
